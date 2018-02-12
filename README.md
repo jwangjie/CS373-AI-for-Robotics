@@ -1,2 +1,2 @@
 # CS373-AI-for-Robotics
-Artificial Intelligence for Robotics course quiz and homework
+[Artificial Intelligence for Robotics](https://classroom.udacity.com/courses/cs373) course quiz and homework
